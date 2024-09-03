@@ -11,7 +11,7 @@
 
 ### My passions are:
 
-- 💻 Data Scientist, AI/ML, Big Data Architecutre.
+- 💻 Data Scientist, AI/ML, Big Data Architecture.
 - 🛠️ Building software from zero to one.
 - 🐍 Python/Shell.
 - 🚀 Initiate project and launch software.
