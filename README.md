@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shireesha TN</h1>
-<h3 align="center">A passionate Data Engineer, AI/ML developer from Canada</h3>
+<h3 align="center">A passionate Data Engineer | Data Analyst | Machine Learning Engineer from Canada</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shireeshatn&label=Profile%20views&color=0e75b6&style=flat" alt="shireeshatn" /> </p>
 #### Here are a few things you should know about me:
 
