@@ -29,10 +29,10 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shireeshatn&show_icons=true&locale=en&layout=compact" alt="shireeshatn" /></p>
+![](https://github-readme-stats.vercel.app/api?username=shireeshatn&show_icons=true&theme=radical&rank_icon=github&hide=stars)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shireeshatn&layout=compact&theme=radical&langs_count=8&hide=Jupyter%20Notebook,Roff&card_width=320)
+![](http://github-readme-streak-stats.herokuapp.com?user=shireeshatn&theme=radical&hide_border=false)
+![](https://github-profile-trophy.vercel.app/?username=shireeshatn&title=MultiLanguage,PullRequest,Commits,Stars,LongTimeUser,Repositories,Issues&theme=radical&column=3)
+![](https://github-readme-activity-graph.vercel.app/graph/?username=shireeshatn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true")
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shireeshatn&show_icons=true&locale=en" alt="shireeshatn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shireeshatn&" alt="shireeshatn" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shireeshatn" alt="shireeshatn" /></a> </p>
