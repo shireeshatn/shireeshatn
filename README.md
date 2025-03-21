@@ -31,11 +31,10 @@
 <p align="middle">
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A0D90C8A6E5E3351833774E28F708D7FCE03362EE41766BD29ABA2E99875447A"> <img src="./assets/certificates/oracle_Gen_ai_Certificate.jpg" width="260"></a>
 <a href="https://www.linkedin.com/learning/certificates/b29deb30125ad3804e8898aefd2c42da01dbf8c8a234306f46a1c6b068ac3461?trk=share_certificate"> <img src="./assets/certificates/linkedin-github-professional.png" width="260"></a>
-<a href="https://www.linkedin.com/learning/certificates/297f5a3fd6842abc91a3f844b66f8d4ef50438d942b15bf908b61ddfca1156eb?trk=share_certificate"> <img src="./assets/certificates/linkedin-data-analysis.png" width="260"></a>
-<a href="https://www.linkedin.com/learning/certificates/c828d20fe94d9928c1003a273cd70a8d30719214bbd15326e433591ac0aa6052?trk=share_certificate"> <img src="./assets/certificates/linkedin-genai.png" width="260"></a>
+<a href="https://www.linkedin.com/learning/certificates/297f5a3fd6842abc91a3f844b66f8d4ef50438d942b15bf908b61ddfca1156eb?trk=share_certificate"> <img src="./assets/certificates/linkedin-data-analysis.jpg" width="260"></a>
+<a href="https://www.linkedin.com/learning/certificates/c828d20fe94d9928c1003a273cd70a8d30719214bbd15326e433591ac0aa6052?trk=share_certificate"> <img src="./assets/certificates/linkedin-genai.jpg" width="260"></a>
 <a href="https://www.credly.com/badges/ab29873f-edd3-4d0f-86c3-624386e0fe6b/public_url"><img src="./assets/certificates/aws-knowledge-cloud-essentials.png" width="180" height="180" ></a>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A0D90C8A6E5E3351833774E28F708D7FCE03362EE41766BD29ABA2E99875447A"><img src="./assets/certificates/oracle.jpg" width="180" height="180"></a>
-
 </p>
 <hr/>
 
